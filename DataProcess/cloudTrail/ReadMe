@@ -1,0 +1,30 @@
+cloudTrail file with nested data record - 
+Example - 
+
+{
+  "userAgent": "[S3Console/0.4]",
+  "eventID": "3038ebd2-c98a-4c65-9b6e-e22506292313",
+  "userIdentity": {
+    "type": "Root",
+    "principalId": "811596193553",
+    "arn": "arn:aws:iam::811596193553:root",
+    "accountId": "811596193553",
+    "sessionContext": {
+      "attributes": {
+        "mfaAuthenticated": "false",
+        "creationDate": "2017-02-12T19:57:05Z"
+      }
+    }
+  },
+  "eventType": "AwsApiCall",
+  "sourceIPAddress": "255.253.125.115",
+  "eventName": "ListBuckets",
+  "eventSource": "s3.amazonaws.com",
+  "recipientAccountId": "811596193553",
+  "requestParameters": null,
+  "awsRegion": "us-east-1",
+  "requestID": "83A6C73FE87F51FF",
+  "responseElements": null,
+  "eventVersion": "1.04",
+  "eventTime": "2017-02-12T19:57:06Z"
+}
