@@ -1,0 +1,51 @@
+type,agent_id,timestamp,thought,action_type,tool_name,prompt,conversation_id,response
+thinking,batch-agent-365,2025-06-19T21:02:52.674241,Processing user prompt: What's the capital of France?,none,none,What's the capital of France?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:02:52.674465,none,openai_chat,none,What's the capital of France?,none,
+tool_use,batch-agent-365,2025-06-19T21:02:53.113933,none,none,openai_chat,What's the capital of France?,none,The capital of France is Paris.
+thinking,batch-agent-365,2025-06-19T21:02:54.117592,Processing user prompt: What's the weather like?,none,none,What's the weather like?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:02:54.118215,none,openai_chat,none,What's the weather like?,none,
+tool_use,batch-agent-365,2025-06-19T21:02:54.596944,none,none,openai_chat,What's the weather like?,none,"I'm unable to provide real-time weather updates. You can check the current weather conditions by using a weather app, checking a weather website, or asking a smart home device for the latest information."
+thinking,batch-agent-365,2025-06-19T21:02:55.598618,Processing user prompt: How does AI work?,none,none,How does AI work?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:02:55.599079,none,openai_chat,none,How does AI work?,none,
+tool_use,batch-agent-365,2025-06-19T21:02:57.923868,none,none,openai_chat,How does AI work?,none,"Artificial intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. AI works by using algorithms and data to enable machines to learn from experience, adapt to new inputs, and perform tasks that typically require human intelligence.
+
+There are several different approaches to creating AI, including:
+
+1. Machine learning: This is a subset of AI where algorithms are trained with large amounts of data to recognize patterns and make decisions without explicit programming. Machine learning techniques include supervised learning, unsupervised learning, and reinforcement learning.
+
+2. Deep learning: Deep learning is a type of machine learning that uses neural networks with many layers to model complex patterns in large data sets. This approach has been successful in tasks such as image and speech recognition.
+
+3. Natural language processing (NLP): NLP enables machines to understand, interpret, and generate human language. This technology is used in applications like chatbots, translation services, and sentiment analysis.
+
+AI systems typically operate by processing data, identifying patterns or trends, making decisions, and then updating their algorithms based on feedback. The goal is to create machines that can mimic human cognitive functions such as reasoning, learning, problem-solving, and understanding natural language.
+
+Overall, AI works by combining computational power with advanced algorithms to perform tasks that were once thought to require human intelligence. As technology continues to advance, the capabilities of AI are expected to grow and impact various industries and fields."
+thinking,batch-agent-365,2025-06-19T21:02:58.929971,Processing user prompt: How do I cook pasta?,none,none,How do I cook pasta?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:02:58.931285,none,openai_chat,none,How do I cook pasta?,none,
+tool_use,batch-agent-365,2025-06-19T21:03:00.838873,none,none,openai_chat,How do I cook pasta?,none,"Cooking pasta is a simple process. Here are the general steps to cook pasta:
+
+1. Boil water in a large pot: Fill a large pot with water (about 4-6 quarts per pound of pasta) and bring it to a rolling boil.
+
+2. Add salt: Once the water is boiling, add a generous amount of salt to the water. This helps flavor the pasta.
+
+3. Add pasta: Gently add the pasta to the boiling water, stirring immediately to prevent sticking. Make sure the pasta is fully submerged in the water.
+
+4. Stir occasionally: Stir the pasta occasionally to prevent it from sticking together. 
+
+5. Cook pasta: Cook the pasta according to the package instructions or until it is al dente, which means it is cooked through but still has a slight bite to it.
+
+6. Drain pasta: Once the pasta is cooked to your liking, turn off the heat and carefully drain the pasta in a colander in the sink. Do not rinse the pasta unless you are making a cold pasta salad.
+
+7. Serve: You can serve the pasta immediately with your favorite sauce, or mix it into your desired dish.
+
+Remember that different types and shapes of pasta may require different cooking times, so always check the packaging for specific instructions."
+thinking,batch-agent-365,2025-06-19T21:03:01.840318,Processing user prompt: What is your favorite book?,none,none,What is your favorite book?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:03:01.840787,none,openai_chat,none,What is your favorite book?,none,
+tool_use,batch-agent-365,2025-06-19T21:03:02.422622,none,none,openai_chat,What is your favorite book?,none,"As an AI assistant, I do not have personal preferences or feelings, so I do not have a favorite book. However, I can provide recommendations based on your preferences if you'd like!"
+thinking,batch-agent-365,2025-06-19T21:03:03.424634,Processing user prompt: How do computers work?,none,none,How do computers work?,conv_1750366972,none
+action,batch-agent-365,2025-06-19T21:03:03.425094,none,openai_chat,none,How do computers work?,none,
+tool_use,batch-agent-365,2025-06-19T21:03:05.071965,none,none,openai_chat,How do computers work?,none,"Computers work by processing input data, carrying out instructions, and providing output results. Inside a computer, there are hardware components such as the Central Processing Unit (CPU), memory (RAM), storage (hard drive or SSD), and input/output devices (keyboard, mouse, monitor). 
+
+When a user interacts with a computer, input data is received, processed by the CPU according to instructions stored in memory, and then output results are displayed on the screen or saved to storage. This process is made possible by software programs that control the operation of the hardware components and allow users to perform tasks.
+
+Overall, computers operate based on principles of binary logic, with data being represented using combinations of 0s and 1s. This allows computers to execute complex computations and provide a wide range of functionalities to users."
